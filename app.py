@@ -36,7 +36,7 @@ def main():
         """
         <style>
         .stApp {
-            background-image: url('https://i.postimg.cc/1Rdm9fYr/download-1.jpg');
+            background-image: url('https://i.postimg.cc/mZPcNxvV/download-2.jpg');
             background-size: cover;
             background-position: center;
             color: white;
