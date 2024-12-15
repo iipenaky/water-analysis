@@ -9,10 +9,10 @@ scaler = joblib.load('scaler.pkl')  # Load the scaler
 
 # Map predicted classes to meaningful names
 class_names = {
-    0: "Poor",
-    1: "Moderate",
-    2: "Good",
-    3: "Excellent"
+    0: "Urban Area with High Water Access",
+    1: "Rural Areas with Poor Water Access",
+    2: "Semi-Urban/Transitional Area",
+    3: "Rural Areas with Water Challenges"
 }
 
 # Define the feature names and their user-friendly labels
