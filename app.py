@@ -39,7 +39,7 @@ def main():
             background-image: url('https://i.postimg.cc/63gh7BDS/pexels-photo-68262-jpeg-cs-srgb-dl-pexels-farooq-khan-15177-68262.jpg');
             background-size: cover;
             background-position: center;
-            color: black;
+            color: white;
         }
         </style>
         """,
