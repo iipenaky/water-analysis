@@ -5,7 +5,7 @@ import numpy as np
 
 # Load the pre-trained model and scaler
 model = joblib.load('random_forest_model.pkl')
-scaler = joblib.load('scaler.pkl')  # Load the scaler
+scaler = joblib.load('scaler.pkl')  
 
 # Map predicted classes to meaningful names
 class_names = {
@@ -36,7 +36,7 @@ def main():
         """
         <style>
         .stApp {
-            background-image: url('https://i.postimg.cc/63gh7BDS/pexels-photo-68262-jpeg-cs-srgb-dl-pexels-farooq-khan-15177-68262.jpg');
+            background-image: url('https://i.postimg.cc/1Rdm9fYr/download-1.jpg');
             background-size: cover;
             background-position: center;
             color: white;
