@@ -46,7 +46,7 @@ def main():
         unsafe_allow_html=True
     )
 
-    st.title("Water Quality Classification in Country")
+    st.title("Water Access Classification")
     st.write("Provide the relevant metrics to classify water quality.")
 
     # Collect user inputs for each feature
